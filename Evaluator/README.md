@@ -44,6 +44,11 @@ Create a `.env` file with:
 GROQ_API_KEY=your_groq_api_key
 OCR_API_URL=your_ocr_service_url
 ```
+## Running the OCR
+1.copy the code in colab notebook
+2. set your ngro auth toke
+3. run the code in google colab
+4. replace OCR_API_URL with your url
 
 ## Running the Application
 
