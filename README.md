@@ -46,8 +46,11 @@ OCR_API_URL=your_ocr_service_url
 ```
 ## Running the OCR
 1.copy the code in colab notebook
-2. set your ngro auth toke
+
+2. set your ngrok auth token
+
 3. run the code in google colab
+
 4. replace OCR_API_URL with your url
 
 ## Running the Application
@@ -75,6 +78,3 @@ OCR_API_URL=your_ocr_service_url
 5. Marks are assigned with feedback and missing points
 6. Results are returned as JSON and PDF report
 
-## License
-
-MIT
